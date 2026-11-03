@@ -54,7 +54,7 @@ Estou em busca da minha **primeira oportunidade** na área de tecnologia, seja e
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [primeiro_projeto](https://github.com/Vitzoo-Dev/primeiro_projeto) | Repositório de estudos pessoais de lógica de programação em Java, com exercícios sobre estruturas de controle, vetores, orientação a objetos, coleções e mais. | 🚧 Em andamento |
+| [primeiro_projeto](https://github.com/Vitzoo-Dev/primeiro_projeto) | Repositório de estudos pessoais de lógica de programação em Java, com exercícios sobre estruturas de controle, vetores, orientação a objetos, coleções e mais. | Concluído ✅ |
 
 ## 📫 Contato
 
